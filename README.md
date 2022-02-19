@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItzRecon
-- 👀 I’m interested in c# and warzone
+- 👀 I’m interested in c#
 - 🌱 I’m currently learning c++ and python
 - 💞️ I’m looking to collaborate on Nun
 - 📫 How to reach me on discord
