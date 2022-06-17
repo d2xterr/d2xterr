@@ -4,7 +4,7 @@
 Hi I am Rily and 15 years old
 
 ### Discord
-<img src="https://discord.c99.nl/widget/theme-1/Rily#6669.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/659524479118213121.png"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
