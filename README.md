@@ -14,7 +14,7 @@ Hi I am Rily and 15 years old
 <br />
 
 ### More about me
-<img src="https://komarev.com/ghpvc/?username=Kian738" alt="Profile Views Count"> ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue)
+<img src="https://komarev.com/ghpvc/?username=ItzRecon" alt="Profile Views Count"> ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue)
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=ItzRecon&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e)-->
