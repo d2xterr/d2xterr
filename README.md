@@ -1,10 +1,10 @@
 <!--
-**Rilyyy/Rilyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi I am Rily and 15 years old
+Hi I am Oxu and 14 years old
 
 ### Discord
-<img src="https://discord.c99.nl/widget/theme-2/659524479118213121.png"/>
+<img src="https://discord.c99.nl/widget/theme-2/652953106321244160.png"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
@@ -16,5 +16,5 @@ Hi I am Rily and 15 years old
 ### More about me
 <img src="https://komarev.com/ghpvc/?username=Rilyyy" alt="Profile Views Count"> ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue)
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=Rilyyy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![ghstats](https://github-readme-stats.vercel.app/api?username=Oxuu1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e)-->
