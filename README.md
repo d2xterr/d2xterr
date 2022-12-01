@@ -1,7 +1,7 @@
 <!--
 **Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi I am Oxu and 14 years old
+Hi I am Oxu and 15 years old
 
 ### Discord
 <img src="https://discord.c99.nl/widget/theme-2/652953106321244160.png"/>
