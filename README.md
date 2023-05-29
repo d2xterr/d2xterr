@@ -1,10 +1,10 @@
 <!--
 **Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi I am Oxu and 15 years old
+Currently Working On a Minecraft Story Mode Installer Mostly Coded out of C++ and C#
 
 ### Discord
-<img src="https://discord.c99.nl/widget/theme-2/652953106321244160.png"/>
+<img src="[https://discord.c99.nl/widget/theme-2/652953106321244160.png](https://discord.c99.nl/widget/theme-1/1106915426396540938.png)"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
