@@ -4,7 +4,7 @@
 Currently Working On a Minecraft Story Mode Installer Mostly Coded out of C++ and C#
 
 ### Discord
-<img src="[https://images-ext-1.discordapp.net/external/HOwv2eYhzXzmkaI7cNfvOqM9Cg2Zl9LKrVYR_2pPxCo/https/discord.c99.nl/widget/theme-5/1106915426396540938.png](https://discord.c99.nl/widget/theme-1/1106915426396540938.png)"/>
+<img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png)"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
