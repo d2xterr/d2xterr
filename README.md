@@ -1,7 +1,7 @@
 <!--
 **Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Currently Working On a Minecraft Story Mode Installer Mostly Coded out of C++ and C#
+Working on Francuim coded in C# C++ 
 
 ### Discord
 <img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png"/>
