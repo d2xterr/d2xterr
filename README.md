@@ -17,7 +17,7 @@
 
 • Field API
 
-• FN V2
+• FortniteAPI-V2
 
 ### Old Projects
 
