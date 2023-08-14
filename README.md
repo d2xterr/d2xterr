@@ -1,7 +1,17 @@
 <!--
 **Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Working on Francuim coded in C# C++ 
+
+### Projects
+
+• Fortnite API
+
+### Old Projects
+
+• Francuim 
+• Ion Console
+• Lucid Swapper V3
+• Eon Cheats
 
 ### Discord
 <img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png"/>
