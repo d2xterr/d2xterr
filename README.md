@@ -17,10 +17,12 @@
 
 • Project Pluto
 
-• FortniteAPI-V2
+• FortniteAPI-V3
 
 
 ### Old Projects
+
+• FortniteAPI-V2
 
 • Field API
 
