@@ -15,12 +15,14 @@
 
 ### Projects
 
-• Project Pluto
+• Project PlutoV2
 
 • FortniteAPI-V3
 
 
 ### Old Projects
+
+• Project Pluto
 
 • FortniteAPI-V2
 
