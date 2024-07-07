@@ -15,12 +15,14 @@
 
 ### Projects
 
-• Project PlutoV2
+• Project PlutoV3
 
-• FortniteAPI-V3
+• Juicy Discord Bot
 
 
 ### Old Projects
+
+• Project PlutoV2
 
 • Project Pluto
 
@@ -30,9 +32,7 @@
 
 • Francuim 
 
-• Ion Console Unlocker
 
-• Lucid Swapper V3
 
 
 
