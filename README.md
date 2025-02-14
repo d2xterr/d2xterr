@@ -3,7 +3,7 @@
 -->
 
 ### Discord
-<img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png"/>
+<img src="[https://discord.c99.nl/widget/theme-1/1106915426396540938.png](https://discord.c99.nl/widget/theme-1/1106915426396540938.png)"/>
 
 ### Languages
 <img align="left" alt="C#" width="26px" src="https://letzgro.net/wp-content/uploads/2016/06/%D0%A1-programming-language-1-300x300.png"/>
@@ -15,12 +15,12 @@
 
 ### Projects
 
-• Project PlutoV3
-
-• Juicy Discord Bot
+• HavocWare
 
 
 ### Old Projects
+
+• Project PlutoV3
 
 • Project PlutoV2
 
@@ -29,11 +29,6 @@
 • FortniteAPI-V2
 
 • Field API
-
-• Francuim 
-
-
-
 
 
 ### More about me
