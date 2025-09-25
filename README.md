@@ -13,20 +13,15 @@ c# Python PHP Html
 
 ### Projects
 
-• EchoUtil
-
 
 ### Old Projects
 
+• Echo Utility
+
 • Project PlutoV3
-
-• Project PlutoV2
-
-• Project Pluto
 
 • FortniteAPI-V2
 
-• Field API
 
 
 ### More about me
