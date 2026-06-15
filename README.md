@@ -1,10 +1,11 @@
 # Hey, I'm d2xterr 👋
 
-Developer focused on software development, tooling, game modification projects, and utility applications.
+Developer interested in game modding, tooling, automation, and community projects.
 
 ## 📫 Contact
 
 <img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png"/>
+
 
 ---
 
@@ -12,11 +13,11 @@ Developer focused on software development, tooling, game modification projects, 
 
 ### Mappy
 
-A mapping-focused project currently in development.
+A Rocket League mod that allows custom player names, asset swapping, and other customization features.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -29,15 +30,19 @@ A mapping-focused project currently in development.
 
 ### 🎮 MultiVersus Mod Menu
 
-Modification tools and utilities for MultiVersus.
+A mod management tool for MultiVersus that simplified installing and managing game mods.
 
-### 🛠 Echo Utility
+### 🔄 Shard Swapper
 
-General-purpose utility software and development tools.
+A Fortnite asset-swapping tool that used hex swaps to modify cosmetic assets.
 
 ### 🚀 Project Pluto
 
-Experimental software project exploring new ideas and features.
+An application that allowed players to access and play OG Fortnite Project experiences in both multiplayer and single-player environments.
+
+### 🤖 Echo Utility
+
+A Discord bot created for a Minecraft community server, providing utility and server-management features.
 
 ---
 
@@ -45,4 +50,8 @@ Experimental software project exploring new ideas and features.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d2xterr\&show_icons=true\&theme=tokyonight)
 
-> Building useful tools, experimenting with new technologies, and turning ideas into projects.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d2xterr\&layout=compact\&theme=tokyonight)
+
+---
+
+> Building tools, mods, and projects that make games and communities more fun to work with.
