@@ -1,32 +1,48 @@
-<!--
-**Oxuu1/Oxuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# Hey, I'm d2xterr 👋
 
-### Discord
+Developer focused on software development, tooling, game modification projects, and utility applications.
+
+## 📫 Contact
+
 <img src="https://discord.c99.nl/widget/theme-1/1106915426396540938.png"/>
 
-### Languages
-c# Python PHP Html 
-<br />
-<br />
+---
 
+## 🚀 Current Project
 
-### Projects
+### Mappy
 
-• Horizon Based Coding Language
+A mapping-focused project currently in development.
 
-### Old Projects
+---
 
-• Echo Utility
+## 🛠️ Tech Stack
 
-• Project PlutoV3
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-• FortniteAPI-V2
+---
 
+## 📂 Notable Projects
 
+### 🎮 MultiVersus Mod Menu
 
-### More about me
-<img src="https://komarev.com/ghpvc/?username=Rilyyy" alt="Profile Views Count"> ![Text Editor: Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue)
+Modification tools and utilities for MultiVersus.
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=d2xterr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-<!--![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e)-->
+### 🛠 Echo Utility
+
+General-purpose utility software and development tools.
+
+### 🚀 Project Pluto
+
+Experimental software project exploring new ideas and features.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d2xterr\&show_icons=true\&theme=tokyonight)
+
+> Building useful tools, experimenting with new technologies, and turning ideas into projects.
