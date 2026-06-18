@@ -13,7 +13,7 @@ Developer interested in game modding, tooling, automation, and community project
 
 ### Mappy
 
-A Rocket League mod that allows custom player names, asset swapping, and other customization features.
+A Rocket League mod that allows asset swapping, and other customization features.
 
 ---
 
