@@ -11,9 +11,8 @@ Developer interested in game modding, tooling, automation, and community project
 
 ## 🚀 Current Project
 
-### Mappy
-
-A Rocket League mod that allows asset swapping, and other customization features.
+### ProxyAI
+A tool that uses yolov11 nano for object tracking in games
 
 ---
 
@@ -27,6 +26,10 @@ A Rocket League mod that allows asset swapping, and other customization features
 ---
 
 ## 📂 Notable Projects
+
+### Mappy
+
+A Rocket League mod that allows asset swapping, and other customization features.
 
 ### 🎮 MultiVersus Mod Menu
 
